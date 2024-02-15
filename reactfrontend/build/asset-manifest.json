@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ae675d1.css",
+    "main.js": "/static/js/main.a0a4065b.js",
+    "static/js/787.a9ea8df6.chunk.js": "/static/js/787.a9ea8df6.chunk.js",
+    "static/media/remixicon.svg?t=1702724036775": "/static/media/remixicon.0dbfc1d0aa3a6bcbdb71.svg",
+    "static/media/illustration2.jpg": "/static/media/illustration2.2501bee062e6177d35e8.jpg",
+    "static/media/boxicons.svg": "/static/media/boxicons.61829f134e586c0c9e89.svg",
+    "static/media/remixicon.eot?t=1702724036775": "/static/media/remixicon.dd310df16a603c6a396d.eot",
+    "static/media/remixicon.ttf?t=1702724036775": "/static/media/remixicon.424fce778c275364c18f.ttf",
+    "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/cta-bg.jpg": "/static/media/cta-bg.314069eaf3191d75946a.jpg",
+    "static/media/remixicon.woff?t=1702724036775": "/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/remixicon.woff2?t=1702724036775": "/static/media/remixicon.d690f58194cb889b5487.woff2",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/hero-img.png": "/static/media/hero-img.593960b6732e1ce54f2b.png",
+    "static/media/user-avatar.png": "/static/media/user-avatar.e8dbe401d6f5058e3f2b.png",
+    "static/media/UI_bg.webp": "/static/media/UI_bg.f723f9cc20f57724c3db.webp",
+    "index.html": "/index.html",
+    "main.9ae675d1.css.map": "/static/css/main.9ae675d1.css.map",
+    "main.a0a4065b.js.map": "/static/js/main.a0a4065b.js.map",
+    "787.a9ea8df6.chunk.js.map": "/static/js/787.a9ea8df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ae675d1.css",
+    "static/js/main.a0a4065b.js"
+  ]
+}
